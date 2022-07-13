@@ -3,6 +3,8 @@
 ## Yaser Rahmati
 ### Personal website : www.yaser-rahmati.ir
 
+### Dataset : CK+ (Extended Cohn-Kanade dataset)
+
 ### Resources
 
 
