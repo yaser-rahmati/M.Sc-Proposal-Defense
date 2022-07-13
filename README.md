@@ -3,7 +3,7 @@
 ## Yaser Rahmati
 ### Personal website : www.yaser-rahmati.ir
 
-### Resource
+### Resources
 
 
 1.	Kobayashi, H. and F. Hara. Recognition of six basic facial expression and their strength by neural network. in [1992] Proceedings IEEE International Workshop on Robot and Human Communication. 1992. IEEE.
