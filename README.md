@@ -1,4 +1,4 @@
 # M.Sc Thesis
 
-# Yaser Rahmati
+## Yaser Rahmati
 ### Personal website : www.yaser-rahmati.ir
