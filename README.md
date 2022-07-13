@@ -1,7 +1,8 @@
 # M.Sc Thesis
 
 ## Yaser Rahmati
-### Personal website : www.yaser-rahmati.ir
+### Personal website
+www.yaser-rahmati.ir
 
 ### Dataset :
 CK+ (Extended Cohn-Kanade dataset)
